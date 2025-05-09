@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h3 align="left">I’m learning Flutter and building apps to improve my skills.<br>I’d love to collaborate on beginner-friendly projects or just share ideas.<br>Currently diving into Dart and app development—feel free to ask me anything!<br>!> I share my coding journey on Instagram to keep it fun and inspiring.</h3>
+<h3 align="center">I’m learning Flutter and building apps to improve my skills.<br>I’d love to collaborate on beginner-friendly projects or just share ideas.<br>Currently diving into Dart and app development—feel free to ask me anything!<br>!> I share my coding journey on Instagram to keep it fun and inspiring.</h3>
 
 ###
 
@@ -17,15 +17,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=souhaibzarai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+<br clear="both">
 
-<img align="left" height="170" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.icegif.com%2Fwp-content%2Fuploads%2F2023%2F06%2Ficegif-1005.gif&f=1&nofb=1&ipt=5b43a585ab939a404c544dd2a46b1b9b68bd89b26a55cddca512cf3795f5cfa2"  />
-
-###
-
-<img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.gifcen.com%2Fwp-content%2Fuploads%2F2024%2F04%2Fone-piece-gif-4.gif&f=1&nofb=1&ipt=9fee75201e0f456d1d76661c362ea873adaa2ae0630110789194ae8d59f53818"  />
-
-###
+<div align="center">
+    <img align="left" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.icegif.com%2Fwp-content%2Fuploads%2F2023%2F06%2Ficegif-1005.gif&f=1&nofb=1&ipt=5b43a585ab939a404c544dd2a46b1b9b68bd89b26a55cddca512cf3795f5cfa2"  />
+  
+  <img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.gifcen.com%2Fwp-content%2Fuploads%2F2024%2F04%2Fone-piece-gif-4.gif&f=1&nofb=1&ipt=9fee75201e0f456d1d76661c362ea873adaa2ae0630110789194ae8d59f53818"  />
+</div>
 
 <br clear="both">
 <br clear="both">
