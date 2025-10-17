@@ -74,7 +74,7 @@
   <a href="https://www.instagram.com/dev_s0uhaib/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discord.gg/EfUyTbUaNb" target="_blank">
+  <a href="https://discord.gg/JJzWMgxsMj" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="35" alt="discord logo"  />
   </a>
   <a href="https://linkedin.com/in/souhaib-zarai-27b36923a" target="_blank">
