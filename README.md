@@ -13,9 +13,8 @@
 <br clear="both">
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=souhaibzarai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=souhaibzarai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiZWjFPCFKQSpEvSwbzKrPpdXN0dWPHeFjXRL6Z1P9dw7HGgWYRAFwDGARKGZdHze7Xs4WRtEHoHj9rteAtNATbhJ9DTp5TOhXD0-IqJMITbcz_YJWOe5Sjm_46VFnGl4Gd59UrVg0--J54uKvKlIGf6WIedYu5QE7ORlsnQk8l0w6qNPfd-UyBHDQ1sDs=w505-h284"  alt="Thorfinn X Askeladd"  />
+  </div>
 
 <br clear="both">
 
