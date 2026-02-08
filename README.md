@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h3 align="center">I’m learning Flutter and building apps to improve my skills.<br>I’d love to collaborate on beginner-friendly projects or just share ideas.<br>Currently diving into Dart and app development—feel free to ask me anything!<br>!> I share my coding journey on Instagram to keep it fun and inspiring.</h3>
+<h3 align="center">Flutter & React</h3>
 
 ###
 
